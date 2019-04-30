@@ -1,0 +1,14 @@
+{
+  "name": "edge-k8s-msgs",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "@azure/event-hubs": "^2.0.0",
+    "table": "^5.2.3"
+  },
+  "devDependencies": {
+    "@types/node": "^11.13.8",
+    "eslint": "^5.16.0"
+  }
+}
